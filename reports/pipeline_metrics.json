@@ -1,0 +1,29 @@
+{
+    "pipeline_name": "movie_analyzer",
+    "movies": {
+        "rows_read": 9125,
+        "rows_affected": 0
+    },
+    "ratings": {
+        "rows_read": 100004,
+        "rows_affected": 0
+    },
+    "validation": {
+        "total_movies": 9125,
+        "total_ratings": 100004,
+        "duplicate_movie_ids": 0,
+        "orphan_ratings": 0,
+        "invalid_ratings": 0,
+        "status": "PASSED"
+    },
+    "summary": {
+        "total_rows_read": 109129,
+        "total_rows_affected": 0
+    },
+    "execution": {
+        "started_at": "2026-11-11T22:29:15+05:30",
+        "completed_at": "2026-11-11T22:29:20+05:30",
+        "duration_seconds": 5
+    },
+    "status": "SUCCESS"
+}

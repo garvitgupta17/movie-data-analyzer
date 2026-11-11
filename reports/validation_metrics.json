@@ -1,0 +1,8 @@
+{
+    "total_movies": 9125,
+    "total_ratings": 100004,
+    "duplicate_movie_ids": 0,
+    "orphan_ratings": 0,
+    "invalid_ratings": 0,
+    "status": "PASSED"
+}
