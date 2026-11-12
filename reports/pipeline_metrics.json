@@ -21,9 +21,9 @@
         "total_rows_affected": 0
     },
     "execution": {
-        "started_at": "2026-11-11T22:29:15+05:30",
-        "completed_at": "2026-11-11T22:29:20+05:30",
-        "duration_seconds": 5
+        "started_at": "2026-11-12T15:54:01+05:30",
+        "completed_at": "2026-11-12T15:54:08+05:30",
+        "duration_seconds": 7
     },
     "status": "SUCCESS"
 }
