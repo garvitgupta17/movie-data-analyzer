@@ -79,7 +79,10 @@ movie-data-analyzer/
 │   ├── links.csv
 │   ├── tags.csv
 │   └── README.txt
-│
+│ 
+├── docs/
+│   └── Architecture.png
+│ 
 ├── reports/
 │   ├── movies_metrics.json
 │   ├── ratings_metrics.json
