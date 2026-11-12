@@ -37,6 +37,12 @@ The project extracts movie and rating records from CSV files, transforms them in
 
 ## Project Architecture
 
+![Movie Data Analyzer ETL Pipeline Architecture](docs/Architecture.png)
+
+The architecture illustrates the end-to-end ETL workflow, from MovieLens CSV ingestion and Python-based processing to PostgreSQL storage, data validation, SQL analytics, and JSON reporting.
+
+The pipeline is orchestrated using a Bash script (`run_pipeline.sh`).
+
 ```text
 MovieLens CSV Dataset
         |
